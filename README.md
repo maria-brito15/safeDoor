@@ -1,5 +1,7 @@
 # Sistema de Controle de Porta Arduino (SafeDoor)
 
+[English Version Here](README_en.md)
+
 ## Visão Geral
 
 Este sistema implementa um controle automatizado de porta com recursos de alarme, detecção de visitantes e controle manual/automático. O sistema utiliza um sensor LDR para detectar luminosidade e controlar a abertura/fechamento da porta automaticamente, além de possuir um aplicativo móvel desenvolvido em App Inventor para controle remoto via Bluetooth.
